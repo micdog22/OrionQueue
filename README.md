@@ -1,4 +1,4 @@
-# OrionQueue — Fila de Jobs em PHP puro (sem Composer)
+# OrionQueue — Fila de Jobs em PHP puro
 
 OrionQueue é uma fila de processamento de jobs 100% em PHP e SQLite, feita para ser didática e útil. 
 Você consegue enfileirar tarefas (HTTP request, comandos locais, funções PHP autorizadas), rodar um worker CLI com retentativas e backoff exponencial, e gerenciar tudo em um painel simples com autenticação e CSRF.
